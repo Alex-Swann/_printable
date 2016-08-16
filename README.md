@@ -37,11 +37,11 @@ A 16-week web development bootcamp which puts emphasis on:
 
 My favourite group projects which showcase the current skills and tech I've picked up:
 
-Project title  | Description  									| Development timeframe | Technologies | Testing
-------------- | ------------------------------	| ------------- |------------- |---------
-[smrt-mirror](https://github.com/vannio/smrt-mirror)| A mirror with an inbuilt display using Leap Motion to detect hand gestures to activate and control the device | 10 days | Javascript, Node.js, Express.js, Nunjucks, SASS, jQuery/AJAX | Mocha(Chai), WebdriverIO
-[Battlecodes](https://github.com/gtormiston/battlecodes) | A real-time multiplayer game inspired by Codewars where players race each other to solve code challenges | 4 days | Javascript, Node.js, Express.js, Socket.io, SASS | Mocha(Chai), Zombie.js, Sinon
-[JustMeat](https://github.com/Alex-Swann/JustMeat) | A YELP clone focused on searching restaurants that make just meat dishes | 4 days | Ruby, Ruby on Rails, Carrierwave, PostgreSQL | Rspec, Capybara
+Project title  | Description  									| Technologies | Testing
+------------- | ------------------------------	|------------- |---------
+[smrt-mirror](https://github.com/vannio/smrt-mirror)| A mirror with an inbuilt display using Leap Motion to detect hand gestures to activate and control the device | Javascript, Node.js, Express.js, Nunjucks, SASS, jQuery/AJAX | Mocha(Chai), WebdriverIO
+[Battlecodes](https://github.com/gtormiston/battlecodes) | A real-time multiplayer game inspired by Codewars where players race each other to solve code challenges | Javascript, Node.js, Express.js, Socket.io, SASS | Mocha(Chai), Zombie.js, Sinon
+[JustMeat](https://github.com/Alex-Swann/JustMeat) | A YELP clone focused on searching restaurants that make just meat dishes | Ruby, Ruby on Rails, Carrierwave, PostgreSQL | Rspec, Capybara
 
 
 #### University of Bristol (Oct 2005 to Jul 2008)
