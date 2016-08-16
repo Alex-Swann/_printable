@@ -1,4 +1,6 @@
 ## Alexander Swann
+#### Email: alex_swann@hotmail.co.uk
+#### Mob: +44 (0)7922362535
 
 Over the past 6 years I have been working as a visual effects compositor adding effects to images and video. My work has comprised of films including Gravity, Harry Potter, Iron Man, and more for which I have been fortunate enough to be part of a BAFTA and Academy Award winning team. Additionally I have had experience working on commercials for advertising companies which include Nike, Addidas, Compare the Market and Unilever.  
 
