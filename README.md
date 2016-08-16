@@ -1,13 +1,10 @@
 ## Alexander Swann
 
- [Education and Projects](#education) | [Skills](#skills) | [Previous Work Experience](#experience) | [Interests](#interests)
+Over the past 6 years I have been working as a visual effects compositor adding effects to images and video. My work has comprised of films including Gravity, Harry Potter, Iron Man, and more for which I have been fortunate enough to be part of a BAFTA and Academy Award winning team. Additionally I have had experience working on commercials for advertising companies which include Nike, Addidas, Compare the Market and Unilever.  
 
-Over the past 6 years I have been working as a visual effects compositor. My work has comprised of films including Gravity, Harry Potter, Iron Man, and more for which I have been fortunate enough to be part of a BAFTA and Academy Award winning team. Additionally I have had experience working on commercials for advertising companies which include Nike, Addidas, Compare the Market and Unilever. My role comprised of adding effects to existing images and videos, creating a final product within a budgeted timeframe to meet the creative requirements of the director. It also had to meet the technical requirements of our clients too. Due to that I am already professionally familiar with what is needed when accessing how long it takes to tackle the problem of creating a product from beginning to end and taking its delivery date into account.
+More recently I have wanted to expand my horizons regarding learning and problem solving. Furthermore I have been looking for the opportunity to find a more structured career route which has led me to computer programming. Due to this, since February 2016, I have been learning to code and have currently just finished a 16 week course in web development at Makers Academy.
 
-More recently I have wanted to expand my horizons regarding learning and problem solving. Furthermore I have been looking for the opportunity to find a more structured career route which has led me to computer programming. Due to this, since February 2016, I have been learning to code and have currently just finished a 16 week course in web development at Makers Academy. Over the course of this time I have learnt how to enhance my problem solving skills, how to better my ability to self teach and updated my research skills. Initially for the first few months I was covering Ruby and since then I have been familiarising myself with Node.js and JavaScript. I've been working in teams of 6 on several open source projects all of which have been approached with Test Driven Development in mind and all of which have been pushed to my GitHub profile. Lastly, I've also gained the reputation of being a sneaky ping pong player.
-
-At present I am looking for a developer role which provides opportunities to learn and grow in a fun and exciting environment.
-
+In total I have covered over 1500 hours of coding and at present I am looking for a developer role which provides opportunities to learn and grow in a fun and exciting environment.
 
 ## <a name="skills">Skills</a>
 
@@ -45,8 +42,6 @@ Project title  | Description  									| Development timeframe | Technologies | 
 [smrt-mirror](https://github.com/vannio/smrt-mirror)| A mirror with an inbuilt display using Leap Motion to detect hand gestures to activate and control the device | 10 days | Javascript, Node.js, Express.js, Nunjucks, SASS, jQuery/AJAX | Mocha(Chai), WebdriverIO
 [Battlecodes](https://github.com/gtormiston/battlecodes) | A real-time multiplayer game inspired by Codewars where players race each other to solve code challenges | 4 days | Javascript, Node.js, Express.js, Socket.io, SASS | Mocha(Chai), Zombie.js, Sinon
 [JustMeat](https://github.com/Alex-Swann/JustMeat) | A YELP clone focused on searching restaurants that make just meat dishes | 4 days | Ruby, Ruby on Rails, Carrierwave, PostgreSQL | Rspec, Capybara
-[BinaryBnB](https://github.com/Alex-Swann/BinaryBnB) | An AirBnB clone listing spaces that can be hired by other users for a night | 4 days | Javascript, Node.js, Express.js, Thinky(ORM), RethinkDB | Mocha(Chai), Zombie.js
-[BookMark Manager](https://github.com/Alex-Swann/bookmark_manager) | An online bookmark manager that enables a user to organise their favourite websites | 4 days | Ruby, Sinatra, DataMapper, PostgreSQL | Rspec, Capybara
 
 
 #### University of Bristol (Oct 2005 to Jul 2008)
