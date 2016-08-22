@@ -32,7 +32,7 @@ My favourite group projects which showcase the current skills and tech I've pick
 - Javascript, Node.js, Express.js, Socket.io, SASS
 - Mocha(Chai), Zombie.js, Sinon
 
-#### JustMeat (https://github.com/Alex-Swann/JustMeat) https://github.com/Alex-Swann/JustMeat
+#### JustMeat (https://github.com/Alex-Swann/JustMeat) 
 - A YELP clone focused on searching restaurants that make just meat dishes
 - Ruby, Ruby on Rails, Carrierwave, PostgreSQL
 - Rspec, Capybara
